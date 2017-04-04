@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: simple-restaurant-finder
+  profiles:
+    active: dev
